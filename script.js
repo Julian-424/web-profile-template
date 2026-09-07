@@ -27,7 +27,7 @@ const ES = {
   "hero.role": "Desarrollador Web · Soporte Técnico",
 
   "about.title":          "Sobre Mí",
-  "about.text":           "[Escribe aquí dos o tres frases sobre ti: qué estudias]",
+  "about.text":           "[Actualmente estoy cursando el tecnico profesional en programacion web, me interesa mucho la posibilidad de crear mi propia pagina web, me gusta la musica y practicar algunos instrumentos y espero en algun futuro crear un proyecto web decente]",
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
   "about.valueLocation":  "[Ciudad], Colombia",
