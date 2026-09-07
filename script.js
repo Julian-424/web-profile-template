@@ -101,7 +101,7 @@ const EN = {
   "hero.role": "Web Developer · Technical Support",
 
   "about.title":          "About Me",
-  "about.text":           "[Write two or three sentences about yourself: what you study,]",
+  "about.text":           "[I'm currently pursuing a vocational degree in web programming. I'm very interested in the possibility of creating my own website. I like music and playing a few instruments, and I hope to create a decent web project someday.]",
   "about.infoTitle":      "Information",
   "about.labelLocation":  "Location",
   "about.valueLocation":  "[City], Colombia",
