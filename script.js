@@ -27,13 +27,13 @@ const ES = {
   "hero.role": "Desarrollador Web · Soporte Técnico",
 
   "about.title":          "Sobre Mí",
-  "about.text":           "[Actualmente estoy cursando el tecnico profesional en programacion web, me interesa mucho la posibilidad de crear mi propia pagina web, me gusta la musica y practicar algunos instrumentos y espero en algun futuro crear un proyecto web decente]",
+  "about.text":           "Actualmente estoy cursando el tecnico profesional en programacion web, me interesa mucho la posibilidad de crear mi propia pagina web, me gusta la musica y practicar algunos instrumentos y espero en algun futuro crear un proyecto web decente",
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
   "about.valueLocation":  "[Ciudad], Colombia",
   "about.labelEmail":     "Correo",
   "about.labelLanguages": "Idiomas",
-  "about.valueLanguages": "Español (nativo) · Inglés ([tu nivel])",
+  "about.valueLanguages": "Español (nativo) · Inglés (B1/B2)",
   "about.labelStatus":    "Disponibilidad",
   "about.valueStatus":    "Abierto a prácticas",
   "about.interestsTitle": "Intereses",
@@ -74,11 +74,11 @@ const ES = {
   "project.3.text":  "[Tecnologías usadas]",
 
   "contact.title":         "Contacto",
-  "contact.intro":         "[Una frase invitando a escribirte. Por ejemplo: ¿Tienes un proyecto o una vacante? Escríbeme.]",
+  "contact.intro":         "Puedo trabajar en equipo y puedo generar ideas e hipotesis mediante datos que pueda aprender trabajando juntos. Escribe para estar en contacto sobre tus ideas.",
   "contact.emailLabel":    "Correo",
   "contact.linkedinValue": "[Tu perfil profesional]",
 
-  "footer.note": "[Tu nombre] · Técnico Profesional en Programación Web · UniEspinal"
+  "footer.note": "Julian David Ortiz Espinosa · Técnico Profesional en Programación Web · UniEspinal"
 };
 
 
@@ -140,19 +140,19 @@ const EN = {
   "exp.2.text":  "[What you did, which tools you used, and what the result was.]",
 
   "portfolio.title": "Projects",
-  "project.1.title": "[Project name]",
-  "project.1.text":  "[Technologies used]",
+  "project.1.title": "Basic Pacman",
+  "project.1.text":  "GameMaker Studio 2",
   "project.2.title": "[Project name]",
   "project.2.text":  "[Technologies used]",
   "project.3.title": "[Project name]",
   "project.3.text":  "[Technologies used]",
 
   "contact.title":         "Contact",
-  "contact.intro":         "[One sentence inviting people to write to you. Example: Have a project or a vacancy? Send me a message.]",
+  "contact.intro":         "I’m a team player and I can come up with ideas and hypotheses based on the insights I gain from working together. Write me to discuss your ideas.",
   "contact.emailLabel":    "Email",
   "contact.linkedinValue": "[Your professional profile]",
 
-  "footer.note": "[Your name] · Professional Technician in Web Programming · UniEspinal"
+  "footer.note": "Julian David Ortiz Espinosa · Professional Technician in Web Programming · UniEspinal"
 };
 
 
