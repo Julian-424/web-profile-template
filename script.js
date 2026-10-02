@@ -66,8 +66,8 @@ const ES = {
   "exp.2.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
 
   "portfolio.title": "Proyectos",
-  "project.1.title": "[Nombre del proyecto]",
-  "project.1.text":  "[Tecnologías usadas]",
+  "project.1.title": "Pacman basico",
+  "project.1.text":  "GameMaker Studio 2",
   "project.2.title": "[Nombre del proyecto]",
   "project.2.text":  "[Tecnologías usadas]",
   "project.3.title": "[Nombre del proyecto]",
