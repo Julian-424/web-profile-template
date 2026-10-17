@@ -32,7 +32,7 @@ Name **one thing** that appears in your Spanish version and does **not** appear
 in your English version. Explain why you removed it.
 
 > [Write 2–4 sentences in English.]
-
+Answer: I'm not sure I left something.
 ---
 
 ## Question 2 · What did you not translate?
@@ -42,7 +42,7 @@ Explain why translating it would be a bad idea.
 
 > [Write 2–4 sentences in English.]
 
----
+Answer: I did not translate "proyecto academico" in education and experience 
 
 ## Question 3 · What was difficult?
 
