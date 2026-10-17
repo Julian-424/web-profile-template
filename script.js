@@ -57,13 +57,13 @@ const ES = {
 
   "edu.1.title": "Técnico Profesional en Programación Web",
   "edu.1.text":  "Aqui aprendemos a hacer uso de la logica en la programación, entender las diferentes tipos de clases, entre otras cosas que tienen que ver con la programación.",
-  "edu.2.title": "[Curso o certificación]",
-  "edu.2.text":  "[Qué aprendiste y para qué te sirve.]",
+  "edu.2.title": "introduccion a cisco packet tracer",
+  "edu.2.text":  "Aprendi el funcionamiento basico del software cisco packet tracer, en donde aprendi a asignar IPs a computadores y ah usar otros servicios de red como el DNS y DHCP",
 
-  "exp.1.title": "[Rol o tipo de proyecto]",
-  "exp.1.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
-  "exp.2.title": "[Rol o tipo de proyecto]",
-  "exp.2.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
+  "exp.1.title": "Desarrollo de juego(PACMAN) basico",
+  "exp.1.text":  "Desarrolle una version de pacman basico en (GAMEMAKER studio 2). hice uso de diferentes tutoriales y de diferentes imagenes que hice por mi cuenta",
+  "exp.2.title": "Desarrollo de programa básico",
+  "exp.2.text":  "Desarrolle un programa en java basico que simula una calculadora.",
 
   "portfolio.title": "Proyectos",
   "project.1.title": "Pacman basico",
@@ -101,7 +101,7 @@ const EN = {
   "hero.role": "Web Developer · Technical Support",
 
   "about.title":          "About Me",
-  "about.text":           "[I'm currently pursuing a vocational degree in web programming. I'm very interested in the possibility of creating my own website. I like music and playing a few instruments, and I hope to create a decent web project someday.]",
+  "about.text":           "I'm currently pursuing a vocational degree in web programming. I'm very interested in the possibility of creating my own website. I like music and playing a few instruments, and I hope to create a decent web project someday.",
   "about.infoTitle":      "Information",
   "about.labelLocation":  "Location",
   "about.valueLocation":  "[City], Colombia",
@@ -131,13 +131,13 @@ const EN = {
 
   "edu.1.title": "Professional Technician in Web Programming",
   "edu.1.text":  "Here we learn how to apply logic in programming, understand the different types of classes, and other topics related to programming.",
-  "edu.2.title": "[Course or certificate]",
-  "edu.2.text":  "[What you learned and how you use it.]",
+  "edu.2.title": "Introduction to Cisco Packet Tracer",
+  "edu.2.text":  "I learned the basics of the “Cisco Packet Tracer” software, where I learned how to assign IP addresses to computers and how to use other network services such as DNS and DHCP",
 
-  "exp.1.title": "[Role or type of project]",
-  "exp.1.text":  "[What you did, which tools you used, and what the result was.]",
-  "exp.2.title": "[Role or type of project]",
-  "exp.2.text":  "[What you did, which tools you used, and what the result was.]",
+  "exp.1.title": "Basic Game Development (PACMAN)",
+  "exp.1.text":  "I developed a basic version of Pac-Man in “GameMaker Studio 2.” I used various tutorials and different images that I created myself",
+  "exp.2.title": "Basic Program Development",
+  "exp.2.text":  "Write a basic Java program that simulates a calculator",
 
   "portfolio.title": "Projects",
   "project.1.title": "Basic Pacman",
